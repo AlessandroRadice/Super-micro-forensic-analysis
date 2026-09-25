@@ -790,7 +790,7 @@ PAGE_TEMPLATE = r'''<meta charset="utf-8">
 <div class="wrap">
   <header class="masthead">
     <div>
-      <div class="eyebrow">Radice Capital Partners &middot; Forensic due diligence &middot; June 2025</div>
+      <div class="eyebrow">Forensic due diligence &middot; June 2025</div>
       <h1>Super Micro Forensic Analysis<span class="h1sub">Earnings quality and <em>accounting red flags</em></span></h1>
       <p class="dek">Super Micro Computer went from one of the market's best performers in early 2024 to a short report, a delayed 10-K and an auditor's resignation within months. This page rebuilds its financial statements from SEC filings exactly as they were published, runs two standard manipulation screens on every quarter since 2013, tests the screens on 14 companies the SEC later charged, and reads the numbers as they stand after the February 2025 filings.</p>
     </div>
